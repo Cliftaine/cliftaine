@@ -1,9 +1,8 @@
 ## Hi there I'm Javier 👋
 
-### I'm a software engineer, scientist and entrepreneur... but in Azeroth I'm Naturgar a restoration Shaman!
-
-### I studied in IPN Mexico. "El servico a la tecnica de la patria".
-### My tesis project is about MOOC's and recomenders.
+### 🔥 A foul tarnished emboldened by thy flame ov ambition.
+### ☕️ I love to preparing perfects cup of coffee as my main work,
+### 🤓 But in my free time I Work as Data Engineer
 
 ### We can stay in touch vía e-mail: cliftaine@gmail.com
 ### Or for formalities: duranvj93@gmail.com
